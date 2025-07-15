@@ -1,7 +1,4 @@
-Step 1: Download the Amali app from the below url 
-
-
-Step 2: Certificates Installation
+Step 1: Certificates Installation
 - Download them here https://drive.google.com/drive/folders/1HDbE4IeS5cZeTBGenenc3TmAauTqUqPh?usp=sharing 
 
 On Google Chrome: 
@@ -33,3 +30,8 @@ Follow the prompt and leave the settings as they are until you see _"Import Succ
 Next, select the _Trusted Root_ and then follow the same process as above to import the ca.crt certificate
 
 Lastly, on the Intermediate tab, follow the same process and import the _intermediate.cert_ certificate
+
+Step 2: Download and Install the Amali App
+
+[Amali](https://ct.familybank.co.ke/AmaliCapture.application)
+
